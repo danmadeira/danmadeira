@@ -1,8 +1,8 @@
-<img align="right" width="500" height="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+<img align="right" width="400" height="256" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 # :man_technologist: Daniel Madeira
 
-##Olá, seja bem-vindo ao meu repositório no GitHub!
+## Olá, seja bem-vindo ao meu repositório no GitHub!
 
 ### Sobre
 
