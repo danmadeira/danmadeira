@@ -1,18 +1,18 @@
 <img align="right" width="400" height="256" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-# :man_technologist: Daniel Madeira
+# Daniel Madeira
 
-## Olá, seja bem-vindo ao meu repositório no GitHub!
+## Olá, seja bem-vindo ao meu repositório!
 
-### Sobre
+### Sobre mim
 
 :mortar_board: Cientista da Computação
 :computer: Analista de Sistemas Web
-:construction_worker: Desenvolvedor PHP
+:man_technologist: Desenvolvedor PHP
 :penguin: Administrador Linux
 :camera: Fotógrafo
 
-### Competências Tecnológicas
+### Competências tecnológicas
 
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" /><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" /><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /><img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
