@@ -1,6 +1,6 @@
 ## Olá, seja bem-vindo ao meu repositório!
 
-<img align="right" width="325" height="208" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" style="padding-top:50px;">
+<img align="right" width="350" height="224" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" style="padding-top:50px;">
 
 ### Sobre mim
 
