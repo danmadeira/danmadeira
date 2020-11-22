@@ -30,6 +30,6 @@
 
 ### Onde mais estou
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-madeira/)](https://www.linkedin.com/in/daniel-madeira/)
-[![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/danmfoto/)](https://www.instagram.com/danmfoto/)
-[![Blogger Badge](https://img.shields.io/badge/blogger-%23FF5722.svg?&style=flat&logo=blogger&logoColor=white&link=http://dan-scientia.blogspot.com/)](http://dan-scientia.blogspot.com/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-madeira/)](https://www.linkedin.com/in/daniel-madeira/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/danmfoto/)](https://www.instagram.com/danmfoto/)
+[![Blogger Badge](https://img.shields.io/badge/Blogger-%23FF5722.svg?&style=flat&logo=blogger&logoColor=white&link=http://dan-scientia.blogspot.com/)](http://dan-scientia.blogspot.com/)
