@@ -6,14 +6,10 @@ Aqui, neste meu perfil no GitHub, eu apenas publico os meus códigos de experime
 
 ### Sobre mim
 
-:mortar_board: Cientista da Computação
-
-:computer: Analista de Sistemas Web
-
-:man_technologist: Desenvolvedor PHP
-
-:penguin: Administrador Linux
-
+:mortar_board: Cientista da Computação<br />
+:computer: Analista de Sistemas Web<br />
+:man_technologist: Desenvolvedor PHP<br />
+:penguin: Administrador Linux<br />
 :camera: Fotógrafo
 
 ### Competências tecnológicas
