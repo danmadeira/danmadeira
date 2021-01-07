@@ -2,6 +2,8 @@
 
 <img align="right" width="350" height="224" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" style="padding-top:50px;">
 
+Aqui, neste meu perfil no GitHub, eu apenas publico os meus códigos de experimentos em programação. Alguns deles, foram ou serão utilizados nos meus projetos profissionais mas, em geral, são apenas ensaios práticos.
+
 ### Sobre mim
 
 :mortar_board: Cientista da Computação
@@ -27,6 +29,8 @@
 <img src="https://img.shields.io/badge/LaTeX%20-%23008080.svg?&style=flat-square&logo=latex&logoColor=white" /><img src="https://img.shields.io/badge/Perl-%2339457E.svg?&style=flat-square&logo=perl&logoColor=white" /><img src="https://img.shields.io/badge/C%20-%2300599C.svg?&style=flat-square&logo=c&logoColor=white" /><img src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/Java-%23007396.svg?&style=flat-square&logo=java&logoColor=white" /><img src="https://img.shields.io/badge/R-%23276DC3.svg?&style=flat-square&logo=r&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Apache%20NetBeans%20IDE-%231B6AC6.svg?&style=flat-square&logo=apache%20netbeans%20ide&logoColor=white" /><img src="https://img.shields.io/badge/LibreOffice-%2318A303.svg?&style=flat-square&logo=libreoffice&logoColor=white" /><img src="https://img.shields.io/badge/Microsoft%20Excel-%23217346?logo=microsoft-excel&logoColor=white&style=flat-square" /><img src="https://img.shields.io/badge/Wolfram%20Mathematica-%23DD1100.svg?&style=flat-square&logo=wolfram&logoColor=white" /><img src="https://img.shields.io/badge/GIMP-%235C5543.svg?&style=flat-square&logo=gimp&logoColor=white" /><img src="https://img.shields.io/badge/Inkscape-%23000000.svg?&style=flat-square&logo=inkscape&logoColor=white" />
+
+:name_badge: Infelizmente, não existem tantos [Simple Icons](https://simpleicons.org/) específicos para ilustrar em [Shields.io](https://shields.io/) outras tecnologias neste arquivo Markdown.
 
 ### Onde mais estou
 
