@@ -1,6 +1,6 @@
 ## Olá, seja bem-vindo ao meu repositório!
 
-<img align="right" width="350" height="224" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" style="padding-top:50px; padding-bottom:50px;">
+<img align="right" width="350" height="224" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 Aqui, neste meu perfil no GitHub, eu apenas publico os meus códigos de experimentos em programação. Alguns deles, foram ou serão utilizados nos meus projetos profissionais mas, em geral, são apenas ensaios práticos.
 
