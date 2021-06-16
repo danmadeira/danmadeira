@@ -8,7 +8,7 @@ Aqui, neste meu perfil no GitHub, eu apenas publico os meus códigos de experime
 
 :mortar_board: Cientista da Computação<br />
 :computer: Analista de Sistemas Web<br />
-:man_technologist: Desenvolvedor PHP<br />
+:man_technologist: Desenvolvedor PHP e APEX<br />
 :penguin: Administrador Linux<br />
 :camera: Fotógrafo
 
