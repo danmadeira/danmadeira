@@ -2,11 +2,11 @@
 
 <img align="right" width="350" height="224" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-Este espaço no GitHub funciona como meu **laboratório pessoal e ambiente de testes**. Aqui compartilho experimentos em programação, estudos sobre algoritmos e protótipos de projetos pessoais, alguns dos quais eventualmente servem de base ou inspiração para minhas atividades profissionais.
+Este meu espaço no GitHub funciona como meu laboratório pessoal. Aqui compartilho experimentos em programação, estudos sobre algoritmos e protótipos de projetos pessoais, alguns dos quais eventualmente servem de base ou inspiração para minhas atividades profissionais. Sempre procuro disponibilizar os códigos em licenças de software abertas (open-source), com exceção em programas e arquivos que não são de minha autoria. Espero que você desfrute cada projeto disponibilizado aqui. Seja bem-vindo!
 
 ---
 
-### 👨‍💻 Sobre mim & Interesses
+### 👨‍💻 Sobre mim & Atuação
 
 * 🎓 **Cientista da Computação** | Analista de Sistemas Web | Administrador Linux
 * 💼 Atuação profissional focada no ecossistema **Oracle Database**, **Oracle APEX**, **SQL** e **PL/SQL**
@@ -23,10 +23,23 @@ Este espaço no GitHub funciona como meu **laboratório pessoal e ambiente de te
 * **Ferramentas & Gestão:** VS Code, SQLcl, Atlassian (Jira, Confluence, Rovo, Bitbucket)
 * **IAs Assistentes:** Claude (Anthropic), GitHub Copilot, ChatGPT
 
-#### 🧪 Ambiente Pessoal & Experimentos
+#### 🏠 Ambiente Pessoal
 * **Sistemas Operacionais:** Linux Fedora (Desktop) & Android (Tablet)
 * **IDEs & Ferramentas:** VSCodium, VSCodroid, GitHub, Wolfram Mathematica
 * **IAs Assistentes:** GitHub Copilot, Google Gemini, Claude
+
+---
+
+### 🗃️ Repositórios em Destaque
+
+Aqui estão alguns dos projetos desenvolvidos neste laboratório pessoal:
+
+* 🌀 **[labirinto-plsql-svg-3d](https://github.com/danmadeira/labirinto-plsql-svg-3d)** — Motor de navegação em labirintos pseudo-3D renderizado dinamicamente via SVG e PL/SQL para Oracle APEX.
+* 📄 **[pdfpkgen](https://github.com/danmadeira/pdfpkgen)** — Package em Oracle PL/SQL para geração dinâmica de documentos PDF diretamente no banco de dados.
+* 🔑 **[criptopack](https://github.com/danmadeira/criptopack)** — Package PL/SQL para Oracle Database que fornece uma API completa para geração de Hashes, cálculo de CRC e Criptografia/Descriptografia simétrica (AES).
+* 🎨 **[building-svg-elements-with-pl-sql](https://github.com/danmadeira/building-svg-elements-with-pl-sql)** — Package para construção de elementos gráficos vetoriais (SVG) usando PL/SQL.
+* 🗺️ **[mapa-mundi-c](https://github.com/danmadeira/mapa-mundi-c)** — Processamento e plotagem cartográfica de mapa-múndi com capitais desenvolvido em C.
+* 📝 **[tutorial-basico-latex](https://github.com/danmadeira/tutorial-basico-latex)** — Guia prático e tutorial introdutório para composição de documentos com LaTeX.
 
 ---
 
