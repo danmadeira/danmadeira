@@ -6,17 +6,18 @@ Este meu espaço no GitHub funciona como meu laboratório pessoal. Aqui comparti
 
 ---
 
-### 👨‍💻 Sobre mim & Atuação
+### 👨‍💻 Sobre mim e minha atuação
 
-* 🎓 **Cientista da Computação** | Analista de Sistemas Web | Administrador Linux
+* 🎓 **Cientista da Computação** | Analista de Sistemas Web
+* 🐧 **Administrador Linux** | ecossistema **Fedora**, **CentOS**, **RHEL** (Red Hat Enterprise Linux) e **Oracle Linux**
 * 💼 Atuação profissional focada no ecossistema **Oracle Database**, **Oracle APEX**, **SQL** e **PL/SQL**
-* 🔬 Forte interesse e estudos práticos em **Matemática**, **Estatística** e **Algoritmos Computacionais**
+* 🧠 Forte interesse e estudos práticos em **Matemática**, **Estatística** e **Algoritmos Computacionais**
 * 💻 Linguagens principais de desenvolvimento: **SQL**, **PL/SQL**, **PHP**, **C/C++** e **Bash / Shell Script**
 * 📸 **Fotógrafo amador** nas horas vagas
 
 ---
 
-### ⚙️ Workflow & Ambientes de Desenvolvimento
+### ⚙️ Workflow e ambientes de desenvolvimento
 
 #### 🏢 Ambiente Profissional
 * **Tecnologias:** Oracle Database, Oracle APEX, SQL & PL/SQL, Web Development
@@ -30,20 +31,22 @@ Este meu espaço no GitHub funciona como meu laboratório pessoal. Aqui comparti
 
 ---
 
-### 🗃️ Repositórios em Destaque
+### 🗃️ Repositórios em destaque
 
 Aqui estão alguns dos projetos desenvolvidos neste laboratório pessoal:
 
 * 🌀 **[labirinto-plsql-svg-3d](https://github.com/danmadeira/labirinto-plsql-svg-3d)** — Motor de navegação em labirintos pseudo-3D renderizado dinamicamente via SVG e PL/SQL para Oracle APEX.
-* 📄 **[pdfpkgen](https://github.com/danmadeira/pdfpkgen)** — Package em Oracle PL/SQL para geração dinâmica de documentos PDF diretamente no banco de dados.
+* 📕 **[pdfpkgen](https://github.com/danmadeira/pdfpkgen)** — Package em Oracle PL/SQL para geração dinâmica de documentos PDF diretamente no banco de dados.
 * 🔑 **[criptopack](https://github.com/danmadeira/criptopack)** — Package PL/SQL para Oracle Database que fornece uma API completa para geração de Hashes, cálculo de CRC e Criptografia/Descriptografia simétrica (AES).
-* 🎨 **[building-svg-elements-with-pl-sql](https://github.com/danmadeira/building-svg-elements-with-pl-sql)** — Package para construção de elementos gráficos vetoriais (SVG) usando PL/SQL.
+* 🖼️ **[building-svg-elements-with-pl-sql](https://github.com/danmadeira/building-svg-elements-with-pl-sql)** — Package para construção de elementos gráficos vetoriais (SVG) usando PL/SQL.
+* 📊 **[algoritmos-estatistica-python](https://github.com/danmadeira/algoritmos-estatistica-python)** — Demonstração de Algoritmos de Estatística em Python.
+* ⭐ **[classificacao-5-estrelas](https://github.com/danmadeira/classificacao-5-estrelas)** — Consultas em SQL para classificação de 5 estrelas.
 * 🗺️ **[mapa-mundi-c](https://github.com/danmadeira/mapa-mundi-c)** — Processamento e plotagem cartográfica de mapa-múndi com capitais desenvolvido em C.
 * 📝 **[tutorial-basico-latex](https://github.com/danmadeira/tutorial-basico-latex)** — Guia prático e tutorial introdutório para composição de documentos com LaTeX.
 
 ---
 
-### 🚀 Competências & Tecnologias
+### 🚀 Competências tecnológicas
 
 <img src="https://img.shields.io/badge/Oracle-%23F80000.svg?&style=flat-square&logo=oracle&logoColor=white" /><img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=flat-square&logo=mysql&logoColor=white" /><img src="https://img.shields.io/badge/MariaDB-%23003545.svg?&style=flat-square&logo=mariadb&logoColor=white" /><img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=flat-square&logo=mongodb&logoColor=white" /><img src="https://img.shields.io/badge/Redis-%23dc382d.svg?&style=flat-square&logo=redis&logoColor=white" /><img src="https://img.shields.io/badge/SQLite-%23003B57.svg?&style=flat-square&logo=sqlite&logoColor=white" /><img src="https://img.shields.io/badge/Apache%20-%23D42029.svg?&style=flat-square&logo=apache&logoColor=white" /><img src="https://img.shields.io/badge/NGINX%20-%23269539.svg?&style=flat-square&logo=nginx&logoColor=white" /><img src="https://img.shields.io/badge/OpenSSL-%23721412.svg?&style=flat-square&logo=openssl&logoColor=white" />
 
@@ -61,7 +64,7 @@ Aqui estão alguns dos projetos desenvolvidos neste laboratório pessoal:
 
 ---
 
-### 🌐 Onde me encontrar
+### 🌐 Onde mais estou
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-madeira/)](https://www.linkedin.com/in/daniel-madeira/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/danmfoto/)](https://www.instagram.com/danmfoto/)
