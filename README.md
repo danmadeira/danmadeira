@@ -2,7 +2,7 @@
 
 <img align="right" width="350" height="224" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-Este meu espaço no GitHub funciona como meu laboratório pessoal. Aqui compartilho experimentos em programação, estudos sobre algoritmos e protótipos de projetos pessoais, alguns dos quais eventualmente servem de base ou inspiração para minhas atividades profissionais. Sempre procuro disponibilizar os códigos em licenças de software abertas (open-source), com exceção em programas e arquivos que não são de minha autoria. Espero que você desfrute cada projeto disponibilizado aqui. Seja bem-vindo!
+Este meu espaço no GitHub funciona como meu laboratório pessoal. Aqui compartilho experimentos em programação, estudos sobre algoritmos e protótipos de projetos pessoais, alguns dos quais eventualmente servem de base ou inspiração para minhas atividades profissionais. Sempre procuro disponibilizar os códigos em licenças de software abertas (open-source), com exceção em programas e arquivos que não sejam de minha autoria. Espero que você desfrute de cada projeto disponibilizado aqui. Seja muito bem-vindo!
 
 ---
 
