@@ -35,10 +35,11 @@ Este meu espaço no GitHub funciona como meu laboratório pessoal. Aqui comparti
 
 Aqui estão alguns dos projetos desenvolvidos neste laboratório pessoal:
 
-* 🌀 **[labirinto-plsql-svg-3d](https://github.com/danmadeira/labirinto-plsql-svg-3d)** — Motor de navegação em labirintos pseudo-3D renderizado dinamicamente via SVG e PL/SQL para Oracle APEX.
+* 🐘 **[php-bootstrap-class](https://github.com/danmadeira/php-bootstrap-class)** — Uma biblioteca PHP moderna, autônoma e de alto desempenho projetada para gerar marcação HTML semântica, elegante e em estrita conformidade com o Bootstrap 5.3.8.
 * 📕 **[pdfpkgen](https://github.com/danmadeira/pdfpkgen)** — Package em Oracle PL/SQL para geração dinâmica de documentos PDF diretamente no banco de dados.
 * 🔑 **[criptopack](https://github.com/danmadeira/criptopack)** — Package PL/SQL para Oracle Database que fornece uma API completa para geração de Hashes, cálculo de CRC e Criptografia/Descriptografia simétrica (AES).
 * 🖼️ **[building-svg-elements-with-pl-sql](https://github.com/danmadeira/building-svg-elements-with-pl-sql)** — Package para construção de elementos gráficos vetoriais (SVG) usando PL/SQL.
+* 🌀 **[labirinto-plsql-svg-3d](https://github.com/danmadeira/labirinto-plsql-svg-3d)** — Motor de navegação em labirintos pseudo-3D renderizado dinamicamente via SVG e PL/SQL para Oracle APEX.
 * 📊 **[algoritmos-estatistica-python](https://github.com/danmadeira/algoritmos-estatistica-python)** — Demonstração de Algoritmos de Estatística em Python.
 * ⭐ **[classificacao-5-estrelas](https://github.com/danmadeira/classificacao-5-estrelas)** — Consultas em SQL para classificação de 5 estrelas.
 * 🗺️ **[mapa-mundi-c](https://github.com/danmadeira/mapa-mundi-c)** — Processamento e plotagem cartográfica de mapa-múndi com capitais desenvolvido em C.
