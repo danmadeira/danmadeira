@@ -43,6 +43,7 @@ Aqui estão alguns dos projetos desenvolvidos neste laboratório pessoal:
 * 📊 **[algoritmos-estatistica-python](https://github.com/danmadeira/algoritmos-estatistica-python)** — Demonstração de Algoritmos de Estatística em Python.
 * ⭐ **[classificacao-5-estrelas](https://github.com/danmadeira/classificacao-5-estrelas)** — Consultas em SQL para classificação de 5 estrelas.
 * 🗺️ **[mapa-mundi-c](https://github.com/danmadeira/mapa-mundi-c)** — Processamento e plotagem cartográfica de mapa-múndi com capitais desenvolvido em C.
+* 🌈 **[descoloracao_seletiva_c](https://github.com/danmadeira/descoloracao_seletiva_c)** — Programa de Descoloração Seletiva em C (PNG, TIFF, JPEG, GIF, WebP, BMP e PPM/PGM).
 * 📝 **[tutorial-basico-latex](https://github.com/danmadeira/tutorial-basico-latex)** — Guia prático e tutorial introdutório para composição de documentos com LaTeX.
 
 ---
