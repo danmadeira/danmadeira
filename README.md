@@ -45,6 +45,7 @@ Aqui estão alguns dos projetos desenvolvidos neste laboratório pessoal:
 * 🗺️ **[mapa-mundi-c](https://github.com/danmadeira/mapa-mundi-c)** — Processamento e plotagem cartográfica de mapa-múndi com capitais desenvolvido em C.
 * 🌈 **[descoloracao_seletiva_c](https://github.com/danmadeira/descoloracao_seletiva_c)** — Programa de Descoloração Seletiva em C (PNG, TIFF, JPEG, GIF, WebP, BMP e PPM/PGM).
 * 📝 **[tutorial-basico-latex](https://github.com/danmadeira/tutorial-basico-latex)** — Guia prático e tutorial introdutório para composição de documentos com LaTeX.
+* 🕹️ **[adventure-retro-ia](https://github.com/danmadeira/adventure-retro-ia)** — Um motor de jogos de aventura em texto movido por Inteligência Artificial.
 
 ---
 
